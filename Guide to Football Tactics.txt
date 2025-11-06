@@ -10,11 +10,11 @@ g) 6 midfielders = overload
 
 2. Set fluidity depending on number of attackers (W, AMC, ST)
 
-a) 0 attackers = very fluid
-b) 1 attacker = fluid
+a) 4 attackers = very fluid
+b) 3 attackers = fluid
 c) 2 attackers = flexible
-d) 3 attackers = structured
-e) 4 attackers = highly structured
+d) 1 attackers = structured
+e) 0 attackers = highly structured
 
 3. Fluidity meaning:
 
@@ -26,11 +26,11 @@ e) very fluid = players can bypass role and duty and mentality
 
 4. Set support duties depending on fluidity (lower figure if 3 CB's)
 
-a) very fluid = 0-1 support duties
-b) fluid = 2-3 support duties
+a) highly structured = 0-1 support duties
+b) structuredfluid = 2-3 support duties
 c) flexible = 4-5 support duties
-d) structured = 6-7 support duties
-e) highly structured = 8-9 support duties
+d) fluid = 6-7 support duties
+e) very fluid = 8-9 support duties
 
 5. Changing fluidity and mentality is needed to make a specific part of the pitch your strong spot.
 However, the opposite will be your weak spot. This is useful if you want a group of players or a single player to excel for selling:
