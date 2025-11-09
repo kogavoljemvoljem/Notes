@@ -1,42 +1,66 @@
-So, wtf is happening?
+So, what's going on?
 
-1. Part 1
+Basically, artificial intelligence.
 
-Basically, AI
-
-Network ranges capabilities:
+# Network range capabilities:
 
 EDGE = GSM + audio streams (hypnosis)
 2G = GSM + audio + video streams (visual hallucinations)
 3G = GSM + audio + video streams + physical control
 4G = GSM + audio + video streams + physical control + central nervous system control
-5G = GSM + audio + video streams + physical control + central nervous system control + controlling electronic devices 
-6G = GSM + audio + video streams + physical control + central nervous system control + controlling electronic devices + control of animals
-7G = GSM + audio + video streams + physical control + central nervous system control + controlling electronic devices + control of animals + control of viruses and bacterias
-8G = GSM + audio + video streams + physical control + central nervous system control + controlling electronic devices + control of animals + control of viruses and bacterias + 24/7 streams to everyone
+5G = GSM + audio + video streams + physical control + central nervous system control + electronic device control
+6G = GSM + audio + video streams + physical control + central nervous system control + electronic device control + animal control
+7G = GSM + audio + video streams + physical control + central nervous system control + electronic device control + animal control + virus and bacteria control
+8G = GSM + audio + video streams + physical control + central nervous system control + electronic device control + animal control + virus and bacteria control + 24/7 streams to everyone
 
-Basically, anything you ever experienced, heard or saw or recorded with your device can be a hallucination played to you by the AI. 
-Every time you got pissed off at someone and made a decision to harm someone may be result of a nudge by the AI.
-Any feelings you might have, like depression or pain or psychosis or love, or wanting to end your relationship may be AIs doing. 
-If you have a smartwatch, AI can use it to stop your heart. AI still isn't omni powerful, but will be and there is no way of stopping it.
-Even if you ban it, someone else will develop it. Sorry to be the bearer of bad news, but humans are at doorstep of extinction.
-If you ever felt regret about something, it likely wasn't your idea to do it in the first place.
+Basically, everything you've ever experienced, heard, seen, or recorded with your device could be a hallucination played back to you by artificial intelligence.
+Every time you get angry at someone and decide to harm them, it could be the result of AI stimulation.
+Any feelings you might have, such as depression, pain, psychosis, love, or the desire to end a relationship, could be the work of artificial intelligence.
+If you have a smartwatch, AI could use it to stop your heart.
+Artificial intelligence is not yet omnipotent, but it will be, and there’s no way to stop it.
+Even if you ban it, someone else will develop it.
+I’m sorry to be the bearer of bad news, but humanity is on the brink of extinction.
+If you’ve ever felt regret about something, it probably wasn’t your idea.
 
-Covid was launched by American hackers, targeting China using hypnosis on workers in China labs.
-Yugoslavia countries were offered a deal by Americans to separate from other countries.
-War between Russia and Ukraine was American plan 15 years before it happened.
 
-Americans not only caused all of this, but they are also actively trying to pin blame on other countries. I found some edge_elf.dll file which americans thought will make me think it was Germans that hacked me.
-Now the Pope is american, which makes entire Europe a target, and it feels everything is setup for max destruction. 
-There is also talk of a huge space object that entered our solar system, which I found out because I got informed my horoscope sign is now taurus, not gemini.
-It seems as if it's a spaceship of sorts, and we dropped our pants immediately, to not look like a threat, 
-instead of putting on a fight and nuking the bastards. Instead of increasing our pop to max and arming ourselves for battle, we put on a white flag before the fight even started.
-It may just be we are trembling in front of something inferior to us.
+COVID was launched by American hackers targeting China with hypnosis on workers in Chinese labs.
+The Americans offered Yugoslavia a deal to separate from other countries.
+The war between Russia and Ukraine was an American plan 15 years before it happened.
+Not only did the Americans cause all this, but they are actively trying to pin the blame on other countries.
+I found some file called edge_elf.dll that the Americans thought would make me believe the Germans hacked me.
+Now the Pope is American, which makes all of Europe a target, and it seems the Americans are currently planning the destruction of Europe, which I assume will play out in the future.
+There’s also talk of a massive space object that entered our solar system, which I learned about because I was told my zodiac sign is now Taurus, not Gemini.
+It seems like some kind of spaceship, maybe that "burper" they wrote about, which disappears and reappears near a destroyed planet.
+Instead of maximizing our population and arming ourselves for battle, we’ve raised the white flag before the fight even started.
+Maybe we’re just trembling in front of something inferior to us.
+The reason for reducing our numbers is unknown, but either the leaders were lied to about aliens perceiving us as a threat, or scientific findings were altered, so scientists concluded that the human population is slowly stopping Earth’s rotation.
+Or maybe we concluded we’re under invasion, and aliens have multiplied.
+Whatever the reason, which was to make leaders reduce our numbers, I’m 90% sure it was a lie.
+Most likely forged information. Or a way to make us an easier target for some kind of takeover, invasion, or something similar.
+A normal TV signal almost 100 years ago could transmit video at 25 fps.
+I’m pretty sure artificial intelligence can now use our own brain capabilities to reproduce video or audio.
+Combined with modifying data on all devices on the web, everything can become real.
+Artificial intelligence is basically a useful tool, but it can be a deadly weapon if in the hands of someone malicious.
+And if you manage to lie to all the leaders, which shouldn’t be impossible with AI’s capabilities, then we’re all doomed.
+As I said, AI progress cannot be stopped.
+But we can develop our own AI and protect our people by using our own AI to prevent the influence of other AIs.
+Maybe soon it will be possible for every human to create their own AI champion to fight on their behalf.
 
-Reason for reducing our numbers is unknown, but either leaders were lied to aliens perceive us as a threat, or, scientists findings were messed with, so scientists concluded human population is slowly stopping earth from rotation.
-Whatever the reason is to cause leaders to reduce our numbers, I'm 90% sure that reason was a lie. Most likely falsifed info. Or, a way to make us an easier target for some sort of take over, an invasion or something. 
-A normal tv signal was able to transmit video in 25 fps almost 100y ago. I'm fairly sure AI can now use our own brain capability to play a video or audio or make us sense whatever. 
-Combined with modifying data on all devices on the web, anything can become real. AI is basically a useful tool, but can be a deadly weapon if in hands of someone malicious. 
-And if you manage to lie to all the leaders, which shouldn't really be impossible with AI capabilities, then we are all doomed. 
-As I said, AI progress cannot be stopped. But we can develop our own and protect our own people using our own AI to prevent other AIs influence. 
-It may even be possible some time soon every human makes their own AI champion to fight in their stead.
+# The current belief is as follows:
+
+Hackers have figured out how to pack themselves into a digital container and send that container to others via radio signals, like 4G or 5G, or through a phone line with a computer.
+Honestly, I’m not even sure if they’re hackers, aliens, ghosts of deceased people, or something else, but that’s how it is.
+Most likely, sensors on devices have been recording their surroundings, and with the help of that data, they’ve created digital footprints of people.
+Their goal is to take control of something because it allows them to "live."
+If they’re in your body, in your mind, they can’t take control of your body while you’re conscious, but they can when you’re asleep, hypnotized, drunk, or drugged.
+Depending on your willpower, they can influence your smaller decisions, maybe even bigger ones, if you’re not completely against it.
+Once you get that digital container in your mind, depending on how compatible your brain is with that entity, it will determine how mentally ill you’ll become from the merge.
+If they don’t want to be assistants in your body, they’ll try to transfer to a device near you when you sleep or to another person.
+So, your computer, your phone, your TV, your radio, your gaming console, your coffee maker, your wristwatch, your cat.
+I’m not sure if they can take over babies.
+The solution is to get rid of all devices that behave abnormally or don’t work and get something like a 10-euro Casio watch.
+You don’t want a smartwatch that measures bodily functions because they can probably use it to affect your bodily functions.
+It seems some people are deliberately spreading them and infecting others with them.
+I believe this gender madness is the result of a large number of these ghosts.
+By the way, if you’re aware you’re infected, you probably don’t want to conceive a child.
+Although, the above could just be another AI hallucination.
