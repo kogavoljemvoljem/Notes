@@ -10,11 +10,11 @@ g) 6 midfielders = overload
 
 2. Set fluidity depending on number of attackers (W, AMC, ST)
 
-a) 4 attackers = very fluid
-b) 3 attackers = fluid
-c) 2 attackers = flexible
-d) 1 attackers = structured
-e) 0 attackers = highly structured
+a) 5 attackers = very fluid
+b) 4 attackers = fluid
+c) 3 attackers = flexible
+d) 2 attackers = structured
+e) 1 attackers = highly structured
 
 3. Fluidity meaning:
 
