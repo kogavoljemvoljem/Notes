@@ -41,13 +41,13 @@ c) flexible = centre
 d) structured = central left
 e) highly structured = left
 
-a) overload = GK
-b) attacking = SW
-c) control = CB
+a) overload = ST
+b) attacking = AMC
+c) control = MC
 d) standard = DM
-e) counter = MC
-f) defensive = AMC
-g) contain = ST
+e) counter = CB
+f) defensive = SW
+g) contain = GK
 
 6) Notes
 
