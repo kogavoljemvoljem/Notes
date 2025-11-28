@@ -12,7 +12,7 @@ Possible values of above registry key are as follows:
 0x00000300 - 768 - Audit (logs without enforcing)
 0x00000000 - 0 - Fully Trusted (aka Unrestricted; full access)
 
-So, you might not want to alter the key to 40k, as that will restrict all untrusted software from running.
-Basically, only signed, trusted, apps with good confidence will run in that case. Setting it to 10k value
-may just block fishy executables and scripts.
+So, you might not want to alter the key to 40k, as that will restrict all software from running.
+Setting it to 10k value may just block fishy executables and scripts.
+
 
